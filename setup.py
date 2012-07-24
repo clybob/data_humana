@@ -10,6 +10,7 @@ setup(
     author_email='clybob@hotmail.com',
     packages=find_packages(),
     license='GPL',
+    url='git://github.com/clybob/data_humana.git',
     description='Dada uma determinada data, calcula a diferença entre ela ' +
                 'e a data atual e apresenta em forma de texto, ex: 1 ano atrás'
 )
