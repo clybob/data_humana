@@ -47,7 +47,7 @@ def exibir(data):
     else:
         return 'menos de um minuto'
 
-    return '%d %s atrás' % formato
+    return '%d %s' % formato
 
 
 def pluralizar(palavra_singular, palavra_plural, quantidade):
